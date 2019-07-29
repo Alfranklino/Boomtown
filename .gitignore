@@ -14,7 +14,7 @@ ehthumbs.db
 
 # Ignore npm packages #
 # =================== #
-client/node_modules/*
+client_saves/node_modules/*
 server/node_modules/*
 
 # Ignore vscode files #
