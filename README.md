@@ -40,7 +40,7 @@ For the versions available, see the [tags on this repository](https://github.com
 ## Authors
 
 - **Franklin MAMVOULA** - _Implementation and testing._,
-- **Simon** - _Guidelines and Testing_
+- **Simon Stern** - _Guidelines and Testing_
 
 ## License
 
