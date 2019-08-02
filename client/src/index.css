@@ -18,13 +18,13 @@ body {
     monospace;
 } */
 
-#root {
+/* #root {
   display: grid;
   grid-template-columns: 1fr;
   justify-content: center;
   align-items: center;
   margin-top: 100px;
-}
+} */
 
 .container {
   background-color: lightblue;

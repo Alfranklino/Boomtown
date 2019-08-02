@@ -7,7 +7,7 @@ Boomtown is a [ReactJS](https://reactjs.org/) based project where users can shar
 
 ## Getting Started
 
-Before being able to share your items, you should signup as user. Then, you can browse among other people articles and borrow them. Once you it is needed you have to return your borrowed articles. If you have some articles to share you can post them. You ahev the possibility to see the list of your shared (posted) and borrowed articles. You can also edit your profile.
+Before being able to share your items, you should signup as user. Then, you can browse among other people articles and borrow them. Once you decide, it is needed, you have to return your borrowed articles. If you have some articles to share you can post them. You have the possibility to see the list of your shared (posted) and borrowed articles. You can also edit your profile.
 
 ### Prerequisites
 
